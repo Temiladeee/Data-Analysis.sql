@@ -8,7 +8,7 @@ I created this project to hone my data analysis skills as I prepare for a busine
 
 ## Contents
 - `create_table.sql`: Script to set up the `meals` table with columns like `date`, `menu_items`, and `profit`.
-- `profit_analysis.sql`: Queries to flag negative profits and group sales by day.
+- `profit_analysis.sql`:  Group sales by day and total profits for each menu items.
 - `dashboard.xlsx` (optional): Excel file with visualizations of sales and profit trends (anonymized data).
 
 ## How to Use
