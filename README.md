@@ -1,7 +1,7 @@
 # Food Business Data Optimization
 
 ## Overview
-This repository documents my journey of optimizing data from my six-month food business venture, which I launched in December 2024 and paused on June 11, 2025, due to rising ingredient costs and low sales. Using Excel for dashboards and SQL for querying, I analyzed sales, profits, and trends to gain actionable insights.
+This repository documents my journey of optimizing data from my six-month food business venture, which I launched in December 2024 and paused on April 11, 2025, due to rising ingredient costs and low sales. Using Excel for dashboards and SQL for querying, I analyzed sales, profits, and trends to gain actionable insights.
 
 ## Purpose
 I created this project to hone my data analysis skills as I prepare for a business analyst role during my NYSC. It reflects my transition from a food entrepreneur to a data-driven professional targeting FMCG industries.
